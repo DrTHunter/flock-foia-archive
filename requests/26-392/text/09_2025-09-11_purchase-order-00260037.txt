@@ -1,0 +1,29 @@
+[Manual transcription. The source PDF is a scan with no text layer.]
+
+PAGE 1: City of Beaufort Purchase Order (VENDOR COPY)
+Docusign Envelope ID: E39F693D-970C-454B-8C55-2ED82493741F
+Fiscal Year 2026 | Purchase Order Number 00260037 | Purchase Order Date 09/11/2025 | Department: POLICE DEPARTMENT
+Bill To: City of Beaufort Finance Department, 1911 Boundary Street, Beaufort, SC 29902
+Ship To: City of Beaufort Police Department, 1901 Boundary St, Beaufort, SC 29902
+Vendor 6688: Flock Group, Inc., 1170 Howell Mill Road NW Suite 210, Atlanta, GA 30318
+Requisition Number 43 | Buyer Name: Jay Phillips
+Item 1: FLOCK SOLAR VIDEO CAMERAS, FKA CONDOR WITH PROFESSIONAL SERVICES WHICH INCLUDED CAMERA SETUP AND
+TESTING AND SHIPPING AND HANDLING. LAW ENFORCEMENT GRADE SOLAR POWERED VIDEO FIXED CAMERA ADDITION TO
+EXISTING LPR INSTALL. THESE COME WITH AN ANNUAL RECURRING FEE. DOES NOT INCLUDE TAXES.
+Quantity 5.0000 EACH | Unit Price $1,150.0000 | Extended Price $5,750.00 | GL #: 15401 - 5274
+Purchase Order Total: $5,750.00
+
+PAGE 2: Flock Safety + SC - Beaufort PD cover page. Main contact: Anabel Pozzi, anabel.pozzi@flocksafety.com, +14703422898
+Handwritten at top: "PR 43" and a struck-through number (appears to read "250046")
+
+PAGE 3: Product and Services Description
+Solar Video Camera, fka Condor: Law enforcement grade solar-powered video fixed camera addition to existing LPR install
+Professional Services - Existing Infrastructure Implementation Fee: One-time Professional Services engagement...
+FlockOS Features & Description: (table header only; no rows)
+NOTE: No page in this document lists the quantity, price, term, or annual recurring fee of the order form.
+
+PAGE 4: Signature page
+"By executing this Order Form, Customer represents and warrants that it has read and agrees to all of the terms and
+conditions contained in the previously executed agreement."
+FLOCK GROUP, INC.: Signed (DocuSign) by Dan Haley, Chief Legal Officer, 9/18/2025
+Customer SC - Beaufort PD: Signed by hand by Stephenie Price, Chief, dated 09/09/2025, PO Number handwritten "260037"

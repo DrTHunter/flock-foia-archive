@@ -1,0 +1,127 @@
+Flock Safety + SC - Beaufort PD
+
+______________
+
+Flock Group Inc.
+1170 Howell Mill Rd, Suite 210
+Atlanta, GA 30318
+______________
+
+MAIN CONTACT:
+Taylor Ellison
+taylor.ellison@flocksafety.com
+7049426362
+
+Created Date: 08/04/2023
+Expiration Date: 09/01/2023
+Quote Number: Q-41267
+PO Number:
+                                                                      Budgetary Quote
+
+                                                   This document is for informational purposes only. Pricing is subject to change.
+
+Bill To: 1901 Boundary St Beaufort, South Carolina 29902                Ship To: 1901 Boundary St Beaufort, South Carolina 29902
+
+Billing Company Name:        SC - Beaufort PD                 Subscription Term:   24 Months
+  Billing Contact Name:                                          Payment Terms:    Net 30
+
+  Billing Email Address:                                       Retention Period:   30 Days
+
+             Billing Phone:                                    Billing Frequency:  Annual Plan - First Year Invoiced at Signing.
+
+Hardware and Software Products
+
+Annual recurring amounts over subscription term
+
+Item                                                            Cost               Quantity                                            Total
+Flock Safety Platform                                                                                                               $36,000.00
+                                                              Included                  1
+              Flock Safety Flock OS                           Included                 12                                            Included
+                            FlockOS TM                                                                                               Included
+
+              Flock Safety LPR Products
+                            Flock Safety Falcon ®
+
+Professional Services and One Time Purchases                    Cost               Quantity                                            Total
+                                                              $650.00                  12                                           $7,800.00
+Item
+One Time Fees
+
+              Flock Safety Professional Services
+                            Professional Services - Standard
+                            Implementation Fee
+
+                                                                                Subtotal Year 1:                                    $43,800.00
+                                                                        Annual Recurring Subtotal:                                  $36,000.00
+
+                                                                                Estimated Tax:                                         $0.00
+
+                                                                                Contract Total:                                     $79,800.00
+
+Taxes shown above are provided as an estimate. Actual taxes are the responsibility of the Customer. This is not an invoice - this document is a non-binding proposal
+                                                                     for informational purposes only. Pricing is subject to change.
+Billing Schedule                                      Amount (USD)
+
+Year 1                                                    $43,800.00
+              At Contract Signing                         $36,000.00
+                                                          $79,800.00
+Annual Recurring after Year 1
+Contract Total
+
+                                   *Tax not included
+Product and Services Description
+
+Flock Safety Platform Items                            Product Description
+
+Flock Safety Falcon ®        An infrastructure-free license plate reader camera that utilizes Vehicle Fingerprint® technology to capture vehicular attributes.
+
+         One-Time Fees                                                                           Service Description
+
+Installation on existing     One-time Professional Services engagement. Includes site & safety assessment, camera setup & testing, and shipping & handling
+infrastructure               in accordance with the Flock Safety Advanced Implementation Service Brief.
+
+Professional Services -      One-time Professional Services engagement. Includes site and safety assessment, camera setup and testing, and shipping and
+Standard Implementation Fee  handling in accordance with the Flock Safety Standard Implementation Service Brief.
+
+Professional Services -      One-time Professional Services engagement. Includes site & safety assessment, camera setup & testing, and shipping & handling
+Advanced Implementation Fee  in accordance with the Flock Safety Advanced Implementation Service Brief.
+
+FlockOS Features & Description
+
+Package: Essentials
+
+FlockOS Features                                       Description
+Community Cameras (Full Access)
+Unlimited Users                                        Access to all privately owned Flock devices within your jurisdiction that have been shared with
+State Network (LP Lookup Only)                         you.
+Nationwide Network (LP Lookup Only)
+Time & Location Based Search                           Unlimited users for FlockOS
+License Plate Lookup
+Vehicle Fingerprint Search                             Allows agencies to look up license plates on all cameras opted in to the statewide Flock network.
+
+Flock Insights/Analytics page                          Allows agencies to look up license plates on all cameras opted in to the nationwide Flock network.
+
+ESRI Based Map Interface                               Search full, partial, and temporary plates by time at particular device locations
+
+Real-Time NCIC Alerts on Flock ALPR Cameras            Look up specific license plate location history captured on Flock devices
+Unlimited Custom Hot Lists
+Direct Share - Surrounding Jurisdiction (Full Access)  Search footage using Vehicle FingerprintTM technology. Access vehicle type, make, color, license
+                                                       plate state, missing / covered plates, and other unique features like bumper stickers, decals, and
+                                                       roof racks.
+
+                                                       Reporting tool to help administrators manage their LPR program with device performance data,
+                                                       user and network audits, plate read reports, hot list alert reports, event logs, and outcome reports.
+
+                                                       Flock Safety's maps are powered by ESRI, which offers the ability for 3D visualization, viewing of
+                                                       floor plans, and layering of external GIS data, such as City infrastructure (i.e., public facilities,
+                                                       transit systems, utilities), Boundary mapping (i.e., precincts, county lines, beat maps), and Interior
+                                                       floor plans (i.e., hospitals, corporate campuses, universities)
+
+                                                       Alert sent when a vehicle entered into the NCIC crime database passes by a Flock camera
+
+                                                       Ability to add a suspect's license plate to a custom list and get alerted when it passes by a Flock
+                                                       camera
+
+                                                       Access to all Flock devices owned by law enforcement that have been directly shared with you.
+                                                       Have ability to search by vehicle fingerprint, receive hot list alerts, and view devices on the map.
+

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beaufort Flock Files</title>
+<meta name="description" content="Public records on the City of Beaufort Police Department's Flock Safety surveillance program, organized, cited, and searchable.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <a class="brand" href="#">FLOCK<span>FILES</span></a>
+    <nav>
+      <a href="#flags">Red flags</a>
+      <a href="#story">The story</a>
+      <a href="#money">Money</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#documents">Documents</a>
+      <a href="#next">Next requests</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow" id="req-label"></p>
+      <h1>What Beaufort signed with Flock Safety, in its own documents.</h1>
+      <p class="lede" id="req-summary"></p>
+      <div class="stats" id="stats"></div>
+    </div>
+  </section>
+
+  <section id="flags" class="band">
+    <div class="wrap">
+      <h2>Red flags <small>ranked by severity · every claim links to its page</small></h2>
+      <div class="flag-filter" id="sev-filter"></div>
+      <div id="flag-list" class="flags"></div>
+    </div>
+  </section>
+
+  <section id="story">
+    <div class="wrap narrow">
+      <h2>The story in the documents</h2>
+      <div id="narrative"></div>
+    </div>
+  </section>
+
+  <section id="money" class="band">
+    <div class="wrap">
+      <h2>Money committed <small>from signed orders and the purchase order only; quotes excluded</small></h2>
+      <div class="table-scroll"><table id="money-table"></table></div>
+    </div>
+  </section>
+
+  <section id="timeline">
+    <div class="wrap">
+      <h2>Timeline</h2>
+      <ol id="tl" class="timeline"></ol>
+    </div>
+  </section>
+
+  <section id="documents" class="band">
+    <div class="wrap">
+      <h2>Document library</h2>
+      <div class="doc-tools">
+        <input id="doc-search" type="search" placeholder="Search titles, summaries and full text…" aria-label="Search documents">
+        <div id="type-filter" class="chips"></div>
+      </div>
+      <p id="search-status" class="muted"></p>
+      <div id="doc-grid" class="docs"></div>
+    </div>
+  </section>
+
+  <section id="next">
+    <div class="wrap narrow">
+      <h2>What's missing: next FOIA requests</h2>
+      <p class="muted">These records are referenced in or implied by this release but weren't produced.</p>
+      <ul id="missing" class="missing"></ul>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="wrap narrow method">
+      <h2>Method &amp; caveats</h2>
+      <p>Every document is the unaltered PDF from the City's release. SHA-256 hashes are in <code>requests/26-392/SHA256SUMS</code>, and the original zip is kept alongside them. Text was extracted with <code>pdftotext</code>. Three scanned documents (#09, #10, #11) were transcribed by hand and are marked as such. Page numbers in citations are PDF page numbers.</p>
+      <p>Findings describe what the documents say and don't say. Something absent from this release isn't proof it doesn't exist, only that it wasn't produced. Quotes are non-binding proposals unless matched by a signed order.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap muted foot">Built from public records. Corrections welcome: open an issue with the document and page.</footer>
+
+<dialog id="viewer">
+  <div class="viewer-bar">
+    <div><strong id="v-title"></strong> <span id="v-page" class="muted"></span></div>
+    <div class="viewer-actions">
+      <button id="v-toggle" class="btn ghost">Show text</button>
+      <a id="v-open" class="btn ghost" target="_blank" rel="noopener">Open PDF ↗</a>
+      <button id="v-close" class="btn" aria-label="Close">✕</button>
+    </div>
+  </div>
+  <iframe id="v-frame" title="Document viewer"></iframe>
+  <pre id="v-text" hidden></pre>
+</dialog>
+
+<script src="data/26-392.js"></script>
+<script src="data/26-392-text.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
